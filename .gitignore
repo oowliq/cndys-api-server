@@ -40,3 +40,8 @@ lerna-debug.log*
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
+
+# Env
+.development.env
+.production.env
+.env
